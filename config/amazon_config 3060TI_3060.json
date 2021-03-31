@@ -1,0 +1,13 @@
+{
+  "asin_groups": 3,
+  "asin_list_1": ["B08HH5WF97","B08HHDP9DW"],
+  "reserve_min_1": 800,
+  "reserve_max_1": 1115,
+  "asin_list_2": ["B083Z5P6TX","B08P2HBBLX","B08P2D1JZZ","B083Z7TR8Z","B08P2H5LW2","B08R876RTH","B08NYNJ6RC","B08NYPKW1Z","B08NYP7KG6","B08NYPLXPJ","B08NYP7KG6","B08P2D3JSG","B08P2DQ28S","B08P3XJLJJ","B08P3V572B","B08NW5HNYW","B08NW693LG"],
+  "reserve_min_2": 400,
+  "reserve_max_2": 750,
+  "asin_list_3": ["B08WGTL4CW","B08WHJPBFX","B08WM28PVH","B08X4V8N5Q","B08X4VJ6SB","B08WT47L8B","B08WPRMVWB","B08WTFG5BX","B08W8DGK3X"],
+  "reserve_min_3": 400,
+  "reserve_max_3": 650,
+  "amazon_website": "amazon.ca"
+}
